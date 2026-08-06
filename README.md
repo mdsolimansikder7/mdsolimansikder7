@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mdsolimansikder7
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning HTML& CSS
+- 🌱 I’m currently learning HTML& CSS & Javascript
 - 💞️ I’m looking to collaborate on  No one
 - 📫 How to reach me 
 - 😄 Pronouns: Shuvo
