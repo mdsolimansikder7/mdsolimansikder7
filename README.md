@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning HTML& CSS & Javascript
 - 💞️ I’m looking to collaborate on  No one
-- 📫 How to reach me 
+- 📫 How to reach me mdsolimansikder62@gmail.com
 - 😄 Pronouns: Shuvo
 - ⚡ Fun fact: ...
 
