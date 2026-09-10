@@ -1,5 +1,5 @@
 <!-- ===================== HEADER ===================== --><p align="center">
-  <img src="./banner.jpeg" alt="Md Soliman Sikder Banner" width="100%" />
+  <img src="./banner.png" alt="Md Soliman Sikder Banner" width="100%" />
 </p><h1 align="center">Hi 👋, I'm Md Soliman Sikder</h1><h3 align="center">
   🚀 Web Developer | 💻 Frontend Developer | 🌱 Full Stack Learner
 </h3><p align="center">
