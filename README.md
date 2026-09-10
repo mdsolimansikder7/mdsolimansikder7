@@ -1,24 +1,117 @@
-# 💫 About Me:
-Frontend & Backend Developer | I build modern, responsive, and scalable web applications with clean design and powerful functionality.<br>
+<!-- ===================== HEADER ===================== --><p align="center">
+  <img src="./banner.jpeg" alt="Md Soliman Sikder Banner" width="100%" />
+</p><h1 align="center">Hi 👋, I'm Md Soliman Sikder</h1><h3 align="center">
+  🚀 Web Developer | 💻 Frontend Developer | 🌱 Full Stack Learner
+</h3><p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile+%F0%9F%91%8B;I'm+a+Passionate+Web+Developer;Building+Modern+%26+Responsive+Websites;Learning+Full+Stack+Web+Development;Always+Learning%2C+Building+%26+Improving+%F0%9F%94%A5" />
+</p>---
 
+👨‍💻 About Me
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mdsolimansikder7) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iamsolimansikder) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdsolimansikder62@gmail.com) 
+const soliman = {
+    name: "Md Soliman Sikder",
+    country: "Bangladesh 🇧🇩",
+    role: "Web Developer",
+    learning: [
+        "Frontend Development",
+        "React",
+        "Next.js",
+        "Backend Development",
+        "Full Stack Development"
+    ],
+    interests: [
+        "Web Development",
+        "UI/UX Design",
+        "AI Tools",
+        "Problem Solving"
+    ],
+    goal: "Become a skilled Full Stack Developer 🚀"
+};
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=for-the-badge&logo=alpinedotjs&logoColor=%238BC0D0) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=mdsolimansikder7&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=mdsolimansikder7&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=mdsolimansikder7&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mdsolimansikder7&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- 🌱 Currently learning Full Stack Web Development
+- 💻 Passionate about creating modern & responsive websites
+- 🎨 Interested in clean UI/UX design
+- 🧠 Exploring AI tools for developers
+- 🔥 Always learning and improving my coding skills
+- 🇧🇩 Proudly learning and building from Bangladesh
 
 ---
-[![](https://komarev.com/ghpvc/?username=mdsolimansikder7&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+🛠️ Tech Stack
+
+💻 Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>⚛️ Frontend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs" />
+</p>🖥️ Backend & Database
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb" />
+</p>🧰 Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>---
+
+📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mdsolimansikder7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdsolimansikder7&theme=tokyonight&hide_border=true" width="49%" />
+</p><p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsolimansikder7&layout=compact&theme=tokyonight&hide_border=true" width="42%" />
+</p>---
+
+🚀 Featured Projects
+
+<p align="center"><a href="https://github.com/mdsolimansikder7">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdsolimansikder7&repo=YOUR-REPOSITORY-NAME&theme=tokyonight&hide_border=true" />
+</a></p>«💡 Replace "YOUR-REPOSITORY-NAME" with one of your actual project repository names.»
+
+---
+
+🌐 Connect With Me
+
+<p align="center"><a href="https://github.com/mdsolimansikder7">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a></p>---
+
+🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mdsolimansikder7/mdsolimansikder7/raw/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/mdsolimansikder7/mdsolimansikder7/raw/output/snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://github.com/mdsolimansikder7/mdsolimansikder7/raw/output/snake.svg">
+  </picture>
+</p>---
+
+📈 My Coding Journey
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdsolimansikder7&theme=tokyonight" width="100%" />
+</p>---
+
+👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mdsolimansikder7&label=Profile%20Views&color=00F7FF&style=for-the-badge" />
+</p>---
+
+💡 Developer Quote
+
+<p align="center">
+  <i>"First, solve the problem. Then, write the code."</i>
+  <br>
+  <b>— John Johnson</b>
+</p>---
+
+<h3 align="center">
+  🚀 Keep Learning • Keep Building • Keep Growing 🚀
+</h3><p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
