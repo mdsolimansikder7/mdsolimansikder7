@@ -70,7 +70,8 @@ const soliman = {
 
 <p align="center"><a href="https://github.com/mdsolimansikder7">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdsolimansikder7&repo=YOUR-REPOSITORY-NAME&theme=tokyonight&hide_border=true" />
-</a></p>«💡 Replace "YOUR-REPOSITORY-NAME" with one of your actual project repository names.»
+</a></p>«💡 Replace "Boss-Lab--JS-Console
+" with one of your actual project repository names.»
 
 ---
 
@@ -80,15 +81,7 @@ const soliman = {
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a></p>---
 
-🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mdsolimansikder7/mdsolimansikder7/raw/output/snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/mdsolimansikder7/mdsolimansikder7/raw/output/snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://github.com/mdsolimansikder7/mdsolimansikder7/raw/output/snake.svg">
-  </picture>
-</p>---
+-
 
 📈 My Coding Journey
 
