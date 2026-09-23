@@ -1,7 +1,3 @@
-# 👋 Hi, I'm Md. Soliman Sikder
-
-### 💻 Frontend Developer | React • Next.js
-
 <p align="center">
   <img 
     src="https://raw.githubusercontent.com/mdsolimansikder7/mdsolimansikder7/main/soliman-banner.png"
@@ -10,29 +6,41 @@
   />
 </p>
 
+<h2 align="center">
+  👋 Hi, I'm Md. Soliman Sikder
+</h2>
+
+<h3 align="center">
+  💻 Frontend Developer
+</h3>
+
+<p align="center">
+  React • Next.js • JavaScript
+</p>
+
 ---
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Frontend Developer** focused on building modern, responsive, and user-friendly web applications.
-
-I work with **React, Next.js, JavaScript, HTML, CSS, and Tailwind CSS** to create clean and interactive web experiences.
-
-Currently, I'm expanding my knowledge toward **Full-Stack Web Development** and building real-world projects to improve my skills.
+- 💻 I'm a **Frontend Developer** focused on React and Next.js.
+- ⚛️ I enjoy building modern, responsive, and interactive web interfaces.
+- 🌱 Currently learning **Full-Stack Web Development**.
+- 🚀 I'm continuously improving my JavaScript, React and Next.js skills.
+- 🧩 I love turning ideas into clean and functional web experiences.
 
 ---
 
-## 🚀 Currently Working On
+## 🔭 Currently Working On
 
 - ⚛️ Building projects with **React & Next.js**
-- 🌱 Learning **Full-Stack Web Development**
-- 🎨 Improving modern and responsive UI development
-- 🧩 Building reusable and scalable components
-- 🚀 Creating real-world projects for my portfolio
+- 🌱 Exploring **Full-Stack Web Development**
+- 🎨 Improving responsive UI and UX
+- 🚀 Building real-world projects for my portfolio
+- 📚 Learning new web technologies
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,git,github,vscode" />
@@ -42,29 +50,37 @@ Currently, I'm expanding my knowledge toward **Full-Stack Web Development** and 
 
 ## 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="50%">
+
 ### 🖥️ Boss Lab — JS Console
 
-A JavaScript-based interactive console project built to practice and demonstrate JavaScript concepts.
+JavaScript-based interactive console project.
 
-**Tech Stack:**
-`HTML` `CSS` `JavaScript`
+**Tech:** HTML • CSS • JavaScript
 
-🔗 **Live Demo:** [Boss Lab JS Console](https://boss-lab-js-console.vercel.app/)
+🔗 [Live Demo](https://boss-lab-js-console.vercel.app/)
 
-🔗 **Source Code:** [GitHub Repository](https://github.com/mdsolimansikder7/Boss-Lab--JS-Console)
+🔗 [GitHub Repository](https://github.com/mdsolimansikder7/Boss-Lab--JS-Console)
 
----
+</td>
+
+<td width="50%">
 
 ### 🧮 Web Calculator
 
-A simple and interactive calculator built for the web using HTML, CSS, and JavaScript.
+A simple and interactive web calculator.
 
-**Tech Stack:**
-`HTML` `CSS` `JavaScript`
+**Tech:** HTML • CSS • JavaScript
 
-🔗 **Live Demo:** [Web Calculator](https://mdsolimansikder7.github.io/web-calculator/)
+🔗 [Live Demo](https://mdsolimansikder7.github.io/web-calculator/)
 
-🔗 **Source Code:** [GitHub Repository](https://github.com/mdsolimansikder7/web-calculator)
+🔗 [GitHub Repository](https://github.com/mdsolimansikder7/web-calculator)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -73,12 +89,6 @@ A simple and interactive calculator built for the web using HTML, CSS, and JavaS
 <p align="center">
   <a href="https://www.linkedin.com/in/md-soliman-sikder-b17887237/">
     <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/md-soliman-sikder-b17887237/">
-    LinkedIn
   </a>
 </p>
 
@@ -97,8 +107,6 @@ A simple and interactive calculator built for the web using HTML, CSS, and JavaS
   />
 </p>
 
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
@@ -109,12 +117,6 @@ A simple and interactive calculator built for the web using HTML, CSS, and JavaS
 
 ---
 
-## 🎯 My Goal
-
-> To become a skilled **Full-Stack Web Developer** by continuously learning, building real-world projects, and improving every day.
-
----
-
-<p align="center">
-  💻 Learn • 🚀 Build • 🌱 Grow
-</p>
+<h3 align="center">
+  🚀 Learn • Build • Grow
+</h3>
