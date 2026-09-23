@@ -70,8 +70,8 @@ const soliman = {
 
 <p align="center"><a href="https://github.com/mdsolimansikder7">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdsolimansikder7&repo=YOUR-REPOSITORY-NAME&theme=tokyonight&hide_border=true" />
-</a></p>«💡 Replace "Boss-Lab--JS-Console
-" with one of your actual project repository names.»
+</a></p>Boss-Lab--JS-Console
+»
 
 ---
 
