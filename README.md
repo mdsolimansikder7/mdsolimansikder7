@@ -1,113 +1,120 @@
-<div align="center">
+# 👋 Hi, I'm Md. Soliman Sikder
 
-<img src="./banner.png" alt="Md Soliman Sikder - Web Developer" width="100%">
+### 💻 Frontend Developer | React • Next.js
 
-# 👋 Hi, I'm Md Soliman Sikder
-
-### 🚀 Web Developer | 💻 Frontend Developer | 🌱 Full-Stack Learner
-
-**Always Learning, Building & Improving**
-
-</div>
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/mdsolimansikder7/mdsolimansikder7/main/soliman-banner.png"
+    alt="Md. Soliman Sikder - Frontend Developer"
+    width="100%"
+  />
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm **Md Soliman Sikder**, a Computer Science & Engineering student and aspiring Web Developer from Bangladesh.
+I'm a passionate **Frontend Developer** focused on building modern, responsive, and user-friendly web applications.
 
-I enjoy creating modern, responsive, and user-friendly websites while continuously learning new technologies and improving my development skills.
+I work with **React, Next.js, JavaScript, HTML, CSS, and Tailwind CSS** to create clean and interactive web experiences.
 
-- 🎓 Computer Science & Engineering Student
-- 💻 Passionate about Web Development
-- 🌱 Currently learning **Next.js, React & TypeScript**
-- 🚀 Interested in **Frontend & Full-Stack Development**
-- 🧠 Always learning new technologies
-- 🔨 Building projects to improve my practical skills
-- 🇧🇩 Based in Bangladesh
+Currently, I'm expanding my knowledge toward **Full-Stack Web Development** and building real-world projects to improve my skills.
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🚀 Currently Working On
 
-### 🌐 Frontend Development
+- ⚛️ Building projects with **React & Next.js**
+- 🌱 Learning **Full-Stack Web Development**
+- 🎨 Improving modern and responsive UI development
+- 🧩 Building reusable and scalable components
+- 🚀 Creating real-world projects for my portfolio
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
-</p>
+---
 
-### ⚙️ Backend & Database
+## 🛠️ Tech Stack & Skills
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,mongodb" />
-</p>
-
-### 💻 Programming
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=c,cpp,python" />
-</p>
-
-### 🔧 Tools
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,git,github,vscode" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
+### 🖥️ Boss Lab — JS Console
+
+A JavaScript-based interactive console project built to practice and demonstrate JavaScript concepts.
+
+**Tech Stack:**
+`HTML` `CSS` `JavaScript`
+
+🔗 **Live Demo:** [Boss Lab JS Console](https://boss-lab-js-console.vercel.app/)
+
+🔗 **Source Code:** [GitHub Repository](https://github.com/mdsolimansikder7/Boss-Lab--JS-Console)
+
+---
+
 ### 🧮 Web Calculator
 
-A responsive calculator website built with JavaScript.
+A simple and interactive calculator built for the web using HTML, CSS, and JavaScript.
 
-🔗 **Live Demo:**  
-https://mdsolimansikder7.github.io/web-calculator/
+**Tech Stack:**
+`HTML` `CSS` `JavaScript`
 
-🔗 **Source Code:**  
-https://github.com/mdsolimansikder7/web-calculator
+🔗 **Live Demo:** [Web Calculator](https://mdsolimansikder7.github.io/web-calculator/)
 
----
-
-### ⚡ Boss Lab JS Console
-
-A JavaScript-based console project created to practice JavaScript fundamentals and programming concepts.
-
-🔗 **Live Demo:**  
-https://boss-lab-js-console.vercel.app/
-
-🔗 **Source Code:**  
-https://github.com/mdsolimansikder7/Boss-Lab--JS-Console
+🔗 **Source Code:** [GitHub Repository](https://github.com/mdsolimansikder7/web-calculator)
 
 ---
 
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/md-soliman-sikder-b17887237/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/md-soliman-sikder-b17887237/">
+    LinkedIn
+  </a>
+</p>
+
+---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mdsolimansikder7&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsolimansikder7&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=mdsolimansikder7&show_icons=true&theme=tokyonight&hide_border=true"
+    height="180"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsolimansikder7&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
+  />
+</p>
 
 ---
 
 ## 🔥 GitHub Streak
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=mdsolimansikder7&theme=tokyonight&hide_border=true" />
-
-</div>
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=mdsolimansikder7&theme=tokyonight&hide_border=true"
+  />
+</p>
 
 ---
 
-## 🎯 My Development Journey
+## 🎯 My Goal
 
-```text
-Learn → Practice → Build → Improve → Repeat 🔄
+> To become a skilled **Full-Stack Web Developer** by continuously learning, building real-world projects, and improving every day.
+
+---
+
+<p align="center">
+  💻 Learn • 🚀 Build • 🌱 Grow
+</p>
