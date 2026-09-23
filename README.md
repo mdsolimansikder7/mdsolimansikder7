@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Md. Soliman Sikder
 
-<h3 align="center">💻 Frontend Developer | React • Next.js</h3>
-
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/mdsolimansikder7/mdsolimansikder7/main/soliman-banner.png"
@@ -9,6 +7,14 @@
     width="100%"
   />
 </p>
+
+<h2 align="center">
+  Hi 👋, I'm Md. Soliman Sikder
+</h2>
+
+<h3 align="center">
+  💻 Frontend Developer
+</h3>
 
 <p align="center">
   <img
@@ -28,14 +34,14 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Frontend Developer** focused on building modern, responsive, and user-friendly web experiences.
+I'm a passionate **Frontend Developer** who enjoys building modern, responsive, and user-friendly web experiences.
 
 I mainly work with **React, Next.js, JavaScript, HTML, CSS, TypeScript, and Tailwind CSS**. Currently, I'm expanding my skills toward **Full-Stack Development**.
 
 - 💻 Frontend Developer focused on **React & Next.js**
 - ⚛️ Building responsive and interactive web interfaces
-- 🌱 Currently learning **Full-Stack Development**
-- 🚀 Building real-world projects and improving my development skills
+- 🌱 Currently learning **Full-Stack Web Development**
+- 🚀 Building real-world projects to improve my skills
 - 🎨 Interested in clean UI, modern design, and better web experiences
 
 ---
@@ -58,31 +64,31 @@ I mainly work with **React, Next.js, JavaScript, HTML, CSS, TypeScript, and Tail
 
 ## 💻 Languages
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,ts" />
 </p>
 
 ## 🎨 Frontend & UI
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
 </p>
 
 ## ⚙️ Backend & Frameworks
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,django" />
 </p>
 
 ## 🗄️ Database & Services
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,firebase" />
 </p>
 
 ## 🔧 Tools & Version Control
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
@@ -99,7 +105,7 @@ I mainly work with **React, Next.js, JavaScript, HTML, CSS, TypeScript, and Tail
 </p>
 
 <p align="center">
-  Currently expanding my frontend skills into backend development,
+  Expanding my frontend skills into backend development,
   APIs, databases, authentication, and full-stack applications.
 </p>
 
@@ -107,73 +113,67 @@ I mainly work with **React, Next.js, JavaScript, HTML, CSS, TypeScript, and Tail
 
 # 🌟 FEATURED PROJECTS
 
-<table>
-<tr>
-<td width="50%">
-
 ## 🖥️ Boss Lab — JS Console
 
 A JavaScript-based interactive console project built to practice and demonstrate JavaScript concepts.
 
-### 🛠️ Tech Stack
+### 🛠️ Technology Stack
 
 `HTML` `CSS` `JavaScript`
 
 ### 🔗 Links
 
-**Live Demo:**  
+🌐 **Live Demo:**  
 https://boss-lab-js-console.vercel.app/
 
-**Source Code:**  
+💻 **Source Code:**  
 https://github.com/mdsolimansikder7/Boss-Lab--JS-Console
 
-</td>
-
-<td width="50%">
+---
 
 ## 🧮 Web Calculator
 
 A simple, responsive, and interactive calculator built for the web.
 
-### 🛠️ Tech Stack
+### 🛠️ Technology Stack
 
 `HTML` `CSS` `JavaScript`
 
 ### 🔗 Links
 
-**Live Demo:**  
+🌐 **Live Demo:**  
 https://mdsolimansikder7.github.io/web-calculator/
 
-**Source Code:**  
+💻 **Source Code:**  
 https://github.com/mdsolimansikder7/web-calculator
-
-</td>
-</tr>
-</table>
 
 ---
 
 # 🌐 CONNECT WITH ME
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/md-soliman-sikder-b17887237/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="50" alt="LinkedIn"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:mdsolimansikder62@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="50" alt="Email"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/md-soliman-sikder-b17887237/">
+    <img
+      src="https://skillicons.dev/icons?i=linkedin"
+      width="50"
+      alt="LinkedIn"
+    />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:mdsolimansikder62@gmail.com">
+    <img
+      src="https://skillicons.dev/icons?i=gmail"
+      width="50"
+      alt="Email"
+    />
+  </a>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/md-soliman-sikder-b17887237/">
     LinkedIn
   </a>
-  •
+  &nbsp;•&nbsp;
   <a href="mailto:mdsolimansikder62@gmail.com">
     Email
   </a>
@@ -186,15 +186,21 @@ https://github.com/mdsolimansikder7/web-calculator
 <p align="center">
 
 <a href="https://codeforces.com/profile/mdsolimansikder_07">
-<img src="https://img.shields.io/badge/Codeforces-mdsolimansikder__07-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  <img
+    src="https://img.shields.io/badge/Codeforces-mdsolimansikder__07-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"
+  />
 </a>
 
 <a href="https://leetcode.com/u/soliman_67/">
-<img src="https://img.shields.io/badge/LeetCode-soliman__67-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  <img
+    src="https://img.shields.io/badge/LeetCode-soliman__67-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"
+  />
 </a>
 
 <a href="https://www.codechef.com/users/soliman07">
-<img src="https://img.shields.io/badge/CodeChef-soliman07-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  <img
+    src="https://img.shields.io/badge/CodeChef-soliman07-5B4638?style=for-the-badge&logo=codechef&logoColor=white"
+  />
 </a>
 
 </p>
@@ -204,17 +210,15 @@ https://github.com/mdsolimansikder7/web-calculator
 # 📈 GITHUB STATS
 
 <p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=mdsolimansikder7&show_icons=true&theme=tokyonight&hide_border=true"
+    height="180"
+  />
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=mdsolimansikder7&show_icons=true&theme=tokyonight&hide_border=true"
-  height="180"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsolimansikder7&layout=compact&theme=tokyonight&hide_border=true"
-  height="180"
-/>
-
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsolimansikder7&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
+  />
 </p>
 
 ---
@@ -222,12 +226,21 @@ https://github.com/mdsolimansikder7/web-calculator
 # 🔥 GITHUB STREAK
 
 <p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=mdsolimansikder7&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
 
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=mdsolimansikder7&theme=tokyonight&hide_border=true"
-  alt="GitHub Streak"
-/>
+---
 
+# 🎯 MY GOAL
+
+<p align="center">
+  <strong>
+    Become a skilled Full-Stack Web Developer by continuously learning,
+    building real-world projects, and improving every day.
+  </strong>
 </p>
 
 ---
@@ -235,13 +248,11 @@ https://github.com/mdsolimansikder7/web-calculator
 # 📫 CONTACT
 
 <p align="center">
-
-<a href="mailto:mdsolimansikder62@gmail.com">
-<img
-  src="https://img.shields.io/badge/Email-mdsolimansikder62%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"
-/>
-</a>
-
+  <a href="mailto:mdsolimansikder62@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Email-mdsolimansikder62%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"
+    />
+  </a>
 </p>
 
 ---
