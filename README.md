@@ -52,7 +52,7 @@ I mainly work with **React, Next.js, JavaScript, HTML, CSS, TypeScript, and Tail
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=mdsolimansikder7&bg_color=0d1117&color=58a6ff&line=2ea043&point=ffffff&area=true&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=mdsolimansikder7&theme=tokyo-night&hide_border=true"
     alt="GitHub Contribution Activity Graph"
     width="100%"
   />
@@ -211,13 +211,15 @@ https://github.com/mdsolimansikder7/web-calculator
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=mdsolimansikder7&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=mdsolimansikder7&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
     height="180"
+    alt="GitHub Stats"
   />
 
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsolimansikder7&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsolimansikder7&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
     height="180"
+    alt="Top Languages"
   />
 </p>
 
