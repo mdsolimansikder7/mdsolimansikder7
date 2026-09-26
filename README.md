@@ -160,7 +160,7 @@ https://github.com/mdsolimansikder7/web-calculator
     />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:mdsolimansikder62@gmail.com">
+  <a href="mail:mdsolimansikder62@gmail.com">
     <img
       src="https://skillicons.dev/icons?i=gmail"
       width="50"
