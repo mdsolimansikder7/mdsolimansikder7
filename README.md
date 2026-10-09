@@ -128,23 +128,54 @@ https://github.com/mdsolimansikder7/Boss-Lab--JS-Console
 
 ---
 
-## 🧮 Web Calculator
+## 📰 News Orbit
 
-A simple, responsive, and interactive calculator built for the web.
+A responsive news website built with Next.js, featuring news categories, organized news sections, and a clean interface for browsing the latest stories.
 
 ### 🛠️ Technology Stack
 
-`HTML` `CSS` `JavaScript`
+`Next.js` `React` `JavaScript` `CSS` `REST API`
 
 ### 🔗 Links
 
 🌐 **Live Demo:**  
-https://mdsolimansikder7.github.io/web-calculator/
+https://newsorbit-nu.vercel.app/
 
 💻 **Source Code:**  
-https://github.com/mdsolimansikder7/web-calculator
+https://github.com/mdsolimansikder7/News-Orbit
 
 ---
+
+## 📅 SU Calendar Sync
+
+A university routine and calendar synchronization web app built for Sonargaon University students. Import class routines, manage weekly schedules, generate calendar files, and receive browser notifications for class reminders.
+
+### 🛠️ Technology Stack
+
+`Next.js` `React` `JavaScript` `CSS` `Node.js` `Tesseract OCR` `iCalendar (ICS)`
+
+### ✨ Key Features
+
+- 📷 Routine image import with OCR
+- 📄 CSV and JSON routine support
+- 📅 Weekly class routine management
+- 📆 Calendar export using `.ics`
+- 🔔 Browser notifications
+- 📱 Responsive design
+
+### 🔗 Links
+
+🌐 **Live Demo:**  
+https://su-calender-sync.vercel.app/
+
+💻 **Source Code:**  
+https://github.com/mdsolimansikder7/SU-Calender-Sync
+
+💡 **Inspired by:**  
+https://github.com/6ayzid/diu-calendar-sync
+
+---
+
 
 # 🌐 CONNECT WITH ME
 
