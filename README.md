@@ -109,6 +109,29 @@ I mainly work with **React, Next.js, JavaScript, HTML, CSS, TypeScript, and Tail
 ---
 
 # 🌟 FEATURED PROJECTS
+### 🏥 MediCare — Hospital Management Dashboard
+
+A modern, responsive hospital management interface to manage appointments, patients, doctors, pharmacy, billing and reports from a single dashboard.
+
+**🛠️ Technology Stack**
+
+`Next.js` `React` `TypeScript` `Tailwind CSS` `shadcn/ui` `Recharts`
+
+**✨ Highlights**
+
+- Dashboard with KPIs, schedules and department statistics
+- Appointments, patients, doctors and consultations management
+- Laboratory, pharmacy inventory and billing modules
+- Financial reports with interactive charts
+- Light and dark theme, fully responsive
+
+**🔗 Links**
+
+🌐 **Live Demo:** https://medical-managment-seven.vercel.app/
+
+💻 **Source Code:** https://github.com/mdsolimansikder7/Medical-managment
+
+---
 
 ## 🖥️ Boss Lab — JS Console
 
