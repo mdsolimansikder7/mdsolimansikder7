@@ -20,12 +20,6 @@
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://hits.sh/github.com/mdsolimansikder7.svg?label=Profile%20Views&color=0e75b6"
-    alt="Profile Views"
-  />
-</p>
 
 <p align="center">
   <a href="https://github.com/mdsolimansikder7">
