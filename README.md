@@ -215,7 +215,7 @@ A digital agriculture support platform designed to help farmers access useful ag
 - Designed to make digital agricultural services more accessible
 
 **Links**
-
+- 🌐 [Live Demo](https://krishi-bondu.vercel.app)
 - 💻 [Source Code](https://github.com/mdsolimansikder7/Krishi-Bondu)
 
 ---
