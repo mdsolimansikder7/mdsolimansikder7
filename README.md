@@ -21,6 +21,9 @@
   <a href="https://soliman-portfolio-zeta.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-0E75B6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
+  <a href="https://github.com/mdsolimansikder7">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
   <a href="https://www.linkedin.com/in/md-soliman-sikder-b17887237/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
@@ -173,4 +176,172 @@ A Bengali-language news website built with Next.js, providing an organized and a
 
 **Links**
 
-- 🌐 [
+- 🌐 [Live Demo](https://newsorbit-nu.vercel.app/)
+- 💻 [Source Code](https://github.com/mdsolimansikder7/News-Orbit)
+
+---
+
+### 📅 4. SU Calendar Sync
+
+A university routine and calendar synchronization web application designed for Sonargaon University students.
+
+The project helps students organize academic schedules, import class routines, and export calendar events.
+
+**Highlights**
+
+- Routine image import using OCR
+- CSV and JSON routine support
+- Weekly class schedule management
+- Calendar export using `.ics`
+- Browser notification support
+- Responsive design
+
+**Tech Stack:** `Next.js` `React` `JavaScript` `CSS` `Node.js` `Tesseract OCR` `iCalendar`
+
+**Links**
+
+- 🌐 [Live Demo](https://su-calender-sync.vercel.app/)
+- 💻 [Source Code](https://github.com/mdsolimansikder7/SU-Calender-Sync)
+- 💡 Inspired by [DIU Calendar Sync](https://github.com/6ayzid/diu-calendar-sync)
+
+---
+
+## 🌾 5. Krishi Bondhu — কৃষিবন্ধু
+
+A digital agriculture support platform designed to help farmers access useful agricultural information and digital services.
+
+**Highlights**
+
+- Farmer-focused digital experience
+- Agriculture-related information and resources
+- Responsive user interface
+- Designed to make digital agricultural services more accessible
+
+**Links**
+
+- 💻 [Source Code](https://github.com/mdsolimansikder7/Krishi-Bondu)
+
+---
+
+## 📊 GitHub Contributions
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/mdsolimansikder7/mdsolimansikder7/activity-assets/activity-365d.svg"
+    alt="GitHub Contribution Activity"
+    width="100%"
+  />
+</p>
+
+---
+
+## 📈 GitHub Statistics
+
+<p align="center">
+  <img
+    src="./profile/stats.svg"
+    height="180"
+    alt="GitHub Statistics"
+  />
+  <img
+    src="./profile/top-langs.svg"
+    height="180"
+    alt="Most Used Languages"
+  />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=mdsolimansikder7&theme=tokyonight&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
+</p>
+
+---
+
+## 💻 Coding Profiles
+
+<p align="center">
+  <a href="https://codeforces.com/profile/mdsolimansikder_07">
+    <img
+      src="https://img.shields.io/badge/Codeforces-mdsolimansikder__07-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"
+      alt="Codeforces"
+    />
+  </a>
+  <a href="https://leetcode.com/u/soliman_67/">
+    <img
+      src="https://img.shields.io/badge/LeetCode-soliman__67-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"
+      alt="LeetCode"
+    />
+  </a>
+  <a href="https://www.codechef.com/users/soliman07">
+    <img
+      src="https://img.shields.io/badge/CodeChef-soliman07-5B4638?style=for-the-badge&logo=codechef"
+      alt="CodeChef"
+    />
+  </a>
+</p>
+
+---
+
+## 🎯 Career Goals
+
+My goal is to become a skilled **Full Stack Developer** who can build reliable, scalable, and user-focused web applications.
+
+I'm working toward improving my skills in:
+
+- Full-stack application architecture
+- Backend development and REST API design
+- Database design and management
+- Authentication and application security
+- Testing, deployment, and performance optimization
+- Open-source collaboration and software engineering practices
+
+I believe in learning by building, improving through feedback, and consistently working toward better solutions.
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://soliman-portfolio-zeta.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0E75B6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://github.com/mdsolimansikder7">
+    <img src="https://img.shields.io/badge/GitHub-View%20Repositories-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/md-soliman-sikder-b17887237/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:mdsolimansikder62@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+<p align="center">
+  📧 <strong>Email:</strong> <a href="mailto:mdsolimansikder62@gmail.com">mdsolimansikder62@gmail.com</a>
+  <br/>
+  🌐 <strong>Portfolio:</strong> <a href="https://soliman-portfolio-zeta.vercel.app/">soliman-portfolio-zeta.vercel.app</a>
+  <br/>
+  💻 <strong>GitHub:</strong> <a href="https://github.com/mdsolimansikder7">mdsolimansikder7</a>
+  <br/>
+  💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/md-soliman-sikder-b17887237/">Connect with me</a>
+  <br/>
+  📍 <strong>Location:</strong> Dhaka, Bangladesh
+</p>
+
+---
+
+<h3 align="center">
+  🚀 Learn • Build • Improve • Grow
+</h3>
+
+<p align="center">
+  Thanks for visiting my profile! ⭐
+  <br/>
+  Explore my <a href="https://soliman-portfolio-zeta.vercel.app/">Portfolio</a> and repositories, and feel free to connect with me.
+</p>
