@@ -21,9 +21,6 @@
   <a href="https://soliman-portfolio-zeta.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-0E75B6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://github.com/mdsolimansikder7">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
   <a href="https://www.linkedin.com/in/md-soliman-sikder-b17887237/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
