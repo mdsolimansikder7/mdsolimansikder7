@@ -1,5 +1,4 @@
-
-<p align="center">
+ <p align="center">
   <img
     src="/Neon Full Stack Developer Banner.png"
     alt="Md. Soliman Sikder - Full Stack Developer"
@@ -9,9 +8,7 @@
 
 <h1 align="center">Hi 👋, I'm Md. Soliman Sikder</h1>
 
-<h3 align="center">
-  💻 Full Stack Developer | Web Developer
-</h3>
+<h3 align="center">💻 Full Stack Developer | Web Developer</h3>
 
 <p align="center">
   <img
@@ -20,8 +17,10 @@
   />
 </p>
 
-
 <p align="center">
+  <a href="https://soliman-portfolio-zeta.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-0E75B6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
   <a href="https://github.com/mdsolimansikder7">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
@@ -30,29 +29,34 @@
   </a>
 </p>
 
+<p align="center">
+  🚀 Building modern web applications with clean UI, reliable APIs, and practical solutions.
+</p>
+
 ---
 
 ## 👨‍💻 About Me
 
-I'm **Md. Soliman Sikder**, a passionate Web Developer from Dhaka, Bangladesh, interested in building modern, responsive, and full-stack web applications.
+I'm **Md. Soliman Sikder**, a passionate Web Developer from Bangladesh, interested in building modern, responsive, and full-stack web applications.
 
-I enjoy turning ideas into practical digital solutions — from designing intuitive user interfaces to developing APIs, working with databases, and deploying web applications.
+I enjoy turning ideas into practical digital solutions — from designing intuitive user interfaces to developing APIs, working with databases, implementing authentication, and deploying web applications.
 
 I'm continuously expanding my knowledge of frontend and backend technologies while building real-world projects to strengthen my software development skills.
 
 - 💻 Interested in **Full Stack Web Development**
 - ⚛️ Building modern interfaces with React and Next.js
 - 🔧 Exploring backend development with Node.js and Express
-- 🗄️ Learning to design and work with databases
+- 🗄️ Learning database design and management
 - 🔐 Exploring authentication, API integration, and application security
 - 🚀 Practicing deployment and modern development workflows
 - 🌱 Continuously learning, building, and improving
+- 🌐 **Portfolio:** [Visit My Portfolio](https://soliman-portfolio-zeta.vercel.app/)
 
 ---
 
 ## 🛠️ Technology Stack
 
-### 💻 Languages
+### 💻 Programming Languages
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,ts" alt="Programming Languages"/>
@@ -64,9 +68,7 @@ I'm continuously expanding my knowledge of frontend and backend technologies whi
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" alt="Frontend Technologies"/>
 </p>
 
-<p>
-  <strong>Also exploring:</strong> DaisyUI, responsive design, component-based architecture, and modern UI development.
-</p>
+**Also exploring:** DaisyUI, responsive design, component-based architecture, HeroUI, and modern UI development.
 
 ### ⚙️ Backend Development
 
@@ -74,9 +76,7 @@ I'm continuously expanding my knowledge of frontend and backend technologies whi
   <img src="https://skillicons.dev/icons?i=nodejs,express,django" alt="Backend Technologies"/>
 </p>
 
-<p>
-  <strong>Focus areas:</strong> Server-side development, REST APIs, routing, validation, authentication, and backend application architecture.
-</p>
+**Focus areas:** Server-side development, REST APIs, routing, validation, authentication, and backend application architecture.
 
 ### 🗄️ Databases & Services
 
@@ -84,9 +84,7 @@ I'm continuously expanding my knowledge of frontend and backend technologies whi
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" alt="Databases and Services"/>
 </p>
 
-<p>
-  <strong>Focus areas:</strong> CRUD operations, data modeling, database integration, and authentication services.
-</p>
+**Focus areas:** CRUD operations, data modeling, database integration, and authentication services.
 
 ### 🔧 Tools & Deployment
 
@@ -98,6 +96,8 @@ I'm continuously expanding my knowledge of frontend and backend technologies whi
 - Vercel for web application deployment
 - REST API integration
 - Environment variables and application configuration
+- Debugging and troubleshooting
+- Responsive design and performance improvements
 
 ---
 
@@ -117,13 +117,13 @@ I'm continuously expanding my knowledge of frontend and backend technologies whi
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🏥 1. MediCare — Hospital Management Dashboard
+### 🏥 1. MediCare — Hospital Management Dashboard
 
 A modern healthcare management dashboard designed to organize hospital operations through a unified interface.
 
-### ✨ Highlights
+**Highlights**
 
 - Patient, doctor, and appointment management interfaces
 - Consultation and scheduling workflows
@@ -131,46 +131,40 @@ A modern healthcare management dashboard designed to organize hospital operation
 - Billing, financial reports, and interactive charts
 - Responsive layout with light and dark themes
 
-### 🛠️ Tech Stack
+**Tech Stack:** `Next.js` `React` `TypeScript` `Tailwind CSS` `shadcn/ui` `Recharts`
 
-`Next.js` `React` `TypeScript` `Tailwind CSS` `shadcn/ui` `Recharts`
+**Links**
 
-### 🔗 Links
-
-🌐 **Live Demo:** [Medical Management](https://medical-managment-seven.vercel.app/)
-
-💻 **Source Code:** [GitHub Repository](https://github.com/mdsolimansikder7/Medical-managment)
+- 🌐 [Live Demo](https://medical-managment-seven.vercel.app/)
+- 💻 [Source Code](https://github.com/mdsolimansikder7/Medical-managment)
 
 ---
 
-## 🖥️ 2. Boss Lab — JS Console
+### 🖥️ 2. Boss Lab — JS Console
 
 An interactive JavaScript console project created for practicing JavaScript concepts and experimenting with code in a browser-based interface.
 
-### ✨ Highlights
+**Highlights**
 
 - Interactive JavaScript console
 - Practice JavaScript concepts
 - Simple and accessible interface
 - Browser-based coding experience
 
-### 🛠️ Tech Stack
+**Tech Stack:** `HTML` `CSS` `JavaScript`
 
-`HTML` `CSS` `JavaScript`
+**Links**
 
-### 🔗 Links
-
-🌐 **Live Demo:** [Boss Lab — JS Console](https://boss-lab-js-console.vercel.app/)
-
-💻 **Source Code:** [GitHub Repository](https://github.com/mdsolimansikder7/Boss-Lab--JS-Console)
+- 🌐 [Live Demo](https://boss-lab-js-console.vercel.app/)
+- 💻 [Source Code](https://github.com/mdsolimansikder7/Boss-Lab--JS-Console)
 
 ---
 
-## 📰 3. News Orbit
+### 📰 3. News Orbit
 
 A Bengali-language news website built with Next.js, providing an organized and accessible experience for browsing news and categories.
 
-### ✨ Highlights
+**Highlights**
 
 - Bengali-language news content
 - Organized news sections and categories
@@ -178,163 +172,8 @@ A Bengali-language news website built with Next.js, providing an organized and a
 - Responsive interface
 - Clean and readable typography
 
-### 🛠️ Tech Stack
+**Tech Stack:** `Next.js` `React` `JavaScript` `CSS` `REST API`
 
-`Next.js` `React` `JavaScript` `CSS` `REST API`
+**Links**
 
-### 🔗 Links
-
-🌐 **Live Demo:** [News Orbit](https://newsorbit-nu.vercel.app/)
-
-💻 **Source Code:** [GitHub Repository](https://github.com/mdsolimansikder7/News-Orbit)
-
----
-
-## 📅 4. SU Calendar Sync
-
-A university routine and calendar synchronization web application designed for Sonargaon University students.
-
-The project helps students organize academic schedules, import class routines, and export calendar events.
-
-### ✨ Highlights
-
-- Routine image import using OCR
-- CSV and JSON routine support
-- Weekly class schedule management
-- Calendar export using `.ics`
-- Browser notification support
-- Responsive design
-
-### 🛠️ Tech Stack
-
-`Next.js` `React` `JavaScript` `CSS` `Node.js` `Tesseract OCR` `iCalendar`
-
-### 🔗 Links
-
-🌐 **Live Demo:** [SU Calendar Sync](https://su-calender-sync.vercel.app/)
-
-💻 **Source Code:** [GitHub Repository](https://github.com/mdsolimansikder7/SU-Calender-Sync)
-
-💡 **Inspired by:** [DIU Calendar Sync](https://github.com/6ayzid/diu-calendar-sync)
-
----
-
-## 📊 GitHub Contributions
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/mdsolimansikder7/mdsolimansikder7/activity-assets/activity-365d.svg"
-    alt="GitHub Contribution Activity"
-    width="100%"
-  />
-</p>
-
----
-
-## 📈 GitHub Statistics
-
-<p align="center">
-  <img
-    src="./profile/stats.svg"
-    height="180"
-    alt="GitHub Statistics"
-  />
-  <img
-    src="./profile/top-langs.svg"
-    height="180"
-    alt="Most Used Languages"
-  />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=mdsolimansikder7&theme=tokyonight&hide_border=true"
-    alt="GitHub Contribution Streak"
-  />
-</p>
-
----
-
-## 💻 Coding Profiles
-
-<p align="center">
-  <a href="https://codeforces.com/profile/mdsolimansikder_07">
-    <img
-      src="https://img.shields.io/badge/Codeforces-mdsolimansikder__07-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"
-      alt="Codeforces"
-    />
-  </a>
-  <a href="https://leetcode.com/u/soliman_67/">
-    <img
-      src="https://img.shields.io/badge/LeetCode-soliman__67-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"
-      alt="LeetCode"
-    />
-  </a>
-  <a href="https://www.codechef.com/users/soliman07">
-    <img
-      src="https://img.shields.io/badge/CodeChef-soliman07-5B4638?style=for-the-badge&logo=codechef&logoColor=white"
-      alt="CodeChef"
-    />
-  </a>
-</p>
-
----
-
-## 🎯 Career Goals
-
-My goal is to become a skilled **Full Stack Developer** who can build reliable, scalable, and user-focused web applications.
-
-I'm working toward improving my skills in:
-
-- Full-stack application architecture
-- Backend development and REST API design
-- Database design and management
-- Authentication and application security
-- Testing, deployment, and performance optimization
-- Open-source collaboration and software engineering practices
-
-I believe in learning by building, improving through feedback, and consistently working toward better solutions.
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/mdsolimansikder7">
-    <img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/md-soliman-sikder-b17887237/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:mdsolimansikder62@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="48" alt="Email"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/mdsolimansikder7">GitHub</a>
-  &nbsp; • &nbsp;
-  <a href="https://www.linkedin.com/in/md-soliman-sikder-b17887237/">LinkedIn</a>
-  &nbsp; • &nbsp;
-  <a href="mailto:mdsolimansikder62@gmail.com">Email</a>
-</p>
-
-📧 **Email:** mdsolimansikder62@gmail.com
-
-📍 **Location:** Dhaka, Bangladesh
-
----
-
-<h3 align="center">
-  🚀 Learn • Build • Improve • Grow
-</h3>
-
-<p align="center">
-  Thanks for visiting my profile! If you like my work, feel free to explore my repositories and connect with me. ⭐
-</p>
+- 🌐 [
