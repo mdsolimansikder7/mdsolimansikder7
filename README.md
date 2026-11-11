@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <a href="https://soliman-portfolio-zeta.vercel.app/">
+  <a href="https://soliman.codes">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-0E75B6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/md-soliman-sikder-b17887237/">
@@ -47,7 +47,7 @@ I'm continuously expanding my knowledge of frontend and backend technologies whi
 - 🔐 Exploring authentication, API integration, and application security
 - 🚀 Practicing deployment and modern development workflows
 - 🌱 Continuously learning, building, and improving
-- 🌐 **Portfolio:** [Visit My Portfolio](https://soliman-portfolio-zeta.vercel.app/)
+- 🌐 **Portfolio:** [Visit My Portfolio](https://soliman.codes)
 
 ---
 
@@ -305,7 +305,7 @@ I believe in learning by building, improving through feedback, and consistently 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://soliman-portfolio-zeta.vercel.app/">
+  <a href="https://soliman.codes">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0E75B6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://github.com/mdsolimansikder7">
@@ -322,7 +322,7 @@ I believe in learning by building, improving through feedback, and consistently 
 <p align="center">
   📧 <strong>Email:</strong> <a href="mailto:mdsolimansikder62@gmail.com">mdsolimansikder62@gmail.com</a>
   <br/>
-  🌐 <strong>Portfolio:</strong> <a href="https://soliman-portfolio-zeta.vercel.app/">soliman-portfolio-zeta.vercel.app</a>
+  🌐 <strong>Portfolio:</strong> <a href="https://soliman.codes">https://soliman.codes</a>
   <br/>
   💻 <strong>GitHub:</strong> <a href="https://github.com/mdsolimansikder7">mdsolimansikder7</a>
   <br/>
